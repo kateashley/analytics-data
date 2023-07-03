@@ -1,0 +1,16 @@
+Package: mism6202v01
+Type: Package
+Title: Datasets for MISM 6202 course at Northeastern University.
+Version: 0.1.0
+Author: Kate Ashley
+Maintainer: Kate Ashley <k.ashley@northeastern.edu>
+Description: Data sets included in this library are:
+    rides - Data relating to a subset of rides taken in the Bluebikes 
+    bikeshare network in the Boston, MA metro area.
+    stations - Data relating to a subset of Bluebikes docking stations.
+License: Bluebikes data: https://www.bluebikes.com/data-license-agreement
+Encoding: UTF-8
+LazyData: false
+Depends: 
+    R (>= 2.10)
+RoxygenNote: 7.2.3
